@@ -1,5 +1,5 @@
 {
-  "name": "peertube-theme-bittube-light-mode",
+  "name": "peertube-theme-bittube-light-mode-no-background",
   "version": "2.3.1",
   "description": "BitTube light theme",
   "engine": {
@@ -9,9 +9,9 @@
     "peertube",
     "theme"
   ],
-  "homepage": "https://github.com/ipbc-dev/peertube-theme-bittube-light-mode",
+  "homepage": "https://github.com/ipbc-dev/peertube-theme-bittube-light-mode-no-background",
   "author": "BitTube",
-  "bugs": "https://github.com/ipbc-dev/peertube-theme-bittube-light-mode/issues",
+  "bugs": "https://github.com/ipbc-dev/peertube-theme-bittube-light-mode-no-background/issues",
   "staticDirs": {
     "images": "public/images"
   },
