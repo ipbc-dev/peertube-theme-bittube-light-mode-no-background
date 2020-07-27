@@ -1,6 +1,6 @@
-# BitTube light-theme
+# BitTube light-theme (no background)
 
-BitTube Light Theme for PeerTube.
+BitTube Light Theme for PeerTube. This is a light version without background.
 
  # How to install in your PeerTube instance
 
